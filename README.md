@@ -7,6 +7,11 @@
 	<a href="https://github.com/williamniemiec/ml-car-evaluation/blob/master/LICENSE"><img src="https://img.shields.io/github/license/williamniemiec/ml-car-evaluation" alt="License"></a>
 	<a href="https://github.com/williamniemiec/ml-car-evaluation/releases"><img src="https://img.shields.io/github/v/release/williamniemiec/ml-car-evaluation" alt="Release"></a>
 </p>
+
+<p align="center">
+	<a href='https://colab.research.google.com/github/williamniemiec/ml-car-evaluation/blob/master/ml-car-evaluation.ipynb'><img alt='Open in Colab' src='https://raw.githubusercontent.com/williamniemiec/williamniemiec/main/assets/images/badges/deploy-to-colab-button.png' width=200/></a>
+</p>
+
 <hr />
 
 ## ❇ Introduction
